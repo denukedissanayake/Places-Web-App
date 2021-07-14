@@ -14,5 +14,5 @@ Technologies:
       React, Node.js & Express, MongoDB & Mongoose 
 
 Deployment: 
-			Front End - FireBase Web Hosting <br>
+			Front End - FireBase Web Hosting |
 			Back End - Heroku Cloud Platform 
